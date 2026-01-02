@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Emeka Okpaleke
 
-A passionate FullStack Developer.
+FullStack Developer and AI enthusiast.
 
 ## 🚀 Languages and Tools I Use
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
